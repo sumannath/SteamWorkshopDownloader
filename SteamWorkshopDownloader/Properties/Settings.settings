@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SteamWorkshopDownloader.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UseSteamCredentials" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SteamUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SteamPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SteamCMDAutoDownload" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SteamCMDUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip</Value>
+    </Setting>
+    <Setting Name="SteamCMDPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">steamCMD/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
